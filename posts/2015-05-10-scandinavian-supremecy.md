@@ -7,7 +7,7 @@ author: Lars Björk
 
 # The Perfect Human is Swedish: A Rebuttal to Pachter's Puerto Rican Perfection
 
-In a recent article, Lior Pachter claims that the perfect human is Puerto Rican, citing a mix of genetics and culture that allegedly results in the "best" human specimens. While this might sound convincing at first glance, I believe it is my duty to present a counterargument rooted in equally rigorous satire and dubious interpretations of data.
+In a recent article, Lior Pachter claims that [the perfect human is Puerto Rican](https://liorpachter.wordpress.com/2014/12/02/the-perfect-human-is-puerto-rican/), citing a mix of genetics and culture that allegedly results in the "best" human specimens. While this might sound convincing at first glance, I believe it is my duty to present a counterargument rooted in equally rigorous satire and dubious interpretations of data.
 
 ![Swedish Perfection](./images/Swedish Perfection Rebuttal.png)
 
