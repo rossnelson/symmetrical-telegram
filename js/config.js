@@ -13,7 +13,7 @@ var config = {
   github: {
     username: 'rossnelson',
     repo: 'symmetrical-telegram',
-    branch: 'gh-pages',
+    branch: 'main',
     host: 'https://api.github.com',
     // Use prefix option if your site is located in a subdirectory.
     // prefix: 'subdirectory',
